@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<!-- Main -->
+	<dimen name="main_taille_texte">20sp</dimen>
+	<dimen name="main_padding_texte">16dp</dimen>
+	<dimen name="main_taille_libelle_bouton">18sp</dimen>
+
+</resources>

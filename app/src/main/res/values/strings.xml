@@ -1,0 +1,11 @@
+<resources>
+
+	<!-- Commun -->
+	<string name="app_name">Architecture MVVM</string>
+
+	<!-- Main -->
+	<string name="main_libelle_bouton">Récupérer planète</string>
+	<string name="main_aucun_reseau">Aucun réseau</string>
+	<string name="main_texte_planete">Nom : %1$s\nDiamètre (km) : %2$s\nClimat : %3$s\nGravité : %4$s\nTerrain : %5$s</string>
+
+</resources>
