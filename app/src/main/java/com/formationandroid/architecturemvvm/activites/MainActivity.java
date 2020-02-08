@@ -17,14 +17,6 @@ import androidx.lifecycle.ViewModelProviders;
 public class MainActivity extends AppCompatActivity
 {
 	
-	// TODO : * MVVM avec observe
-	// TODO : * requète avec MVVM et retour
-	// TODO : * test si rotation écran
-	// TODO : * mise en forme texte
-	// TODO : * gestion erreur
-	// TODO : ~ cas 2 view models pour 1 activité
-	// TODO : data binding + tests automatisés ?
-	
 	// Vues :
 	private TextView textViewPlanete = null;
 	private ProgressBar progressBarPlanete = null;
